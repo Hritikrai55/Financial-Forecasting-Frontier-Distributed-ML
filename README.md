@@ -2,6 +2,8 @@
 
 A comprehensive big data analytics project focused on banking data analysis using Apache Spark, Hadoop, and machine learning techniques to predict term deposit subscriptions and derive business insights.
 
+- 🎓 [Project Certification](https://verified.sertifier.com/en/verify/22268440375331/)
+
 ## 📊 Project Overview
 
 This project demonstrates end-to-end big data processing and analytics on banking data, including:
@@ -188,13 +190,10 @@ Raw Data → Data Cleaning → Feature Engineering → Model Training → Hyperp
 ## 👨‍💻 Author
 
 **Hritik**
-- Project focused on big data analytics and machine learning
-- Specializing in banking and financial data analysis
+
 
 ## 📞 Contact
-
-For questions or collaboration opportunities, please reach out through the repository issues or discussions.
-
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/hritik-rai-/)
 ---
 
 *This project demonstrates practical application of big data technologies in the banking sector, showcasing end-to-end data science workflows from exploration to model deployment.*
